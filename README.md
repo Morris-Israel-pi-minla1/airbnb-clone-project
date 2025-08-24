@@ -53,7 +53,32 @@ This project is a full-stack clone of the AirBnB accommodation booking platform.
 | **Listing Detailed View** | Full property details with images, amenities, and booking form | Image carousel, description, amenities, map        |
 | **Simple Checkout View**  | Final booking step: user details + payment                     | Booking summary, payment form, confirmation button |
 ---
-### 💡 Importance of User-Friendly Design
-----
+## 💡 Importance of User-Friendly Design
+---
  A well-designed booking system reduces friction, increases conversions, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are essential.
- ---
+--
+## 🎨 Figma Design Specifications
+### 🎨 Color Styles
+
+* Primary: #f85f06ff
+
+* Secondary: #008489
+
+* Background: #FFFFFF
+
+* Text: #222222
+
+* Secondary Text: #717171
+
+### ✍️ Typography
+
+* Primary Font: Quicksand, Medium (500), 16px
+
+* Headings: Source Sans Pro, Bold (700), 24px–32px
+
+* Secondary Text: Quicksand, Book (400), 14px
+
+### ✅ Why It Matters
+---
+Identifying design properties ensures consistency across the UI, maintains brand identity, improves readability, and helps collaboration between designers and developers.
+-
